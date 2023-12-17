@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url('download.jfif');
+    /* background-repeat: no-repeat; */
+    height: 2000px;
+    width: 2000px;
+}
+.left{
+    background: 3px solid greenyellow;
+    
+}
+.mid{
+    background: 3px solid rgb(230, 64, 14);
+}
+.right{
+    background: 3px solid blueviolet;
+}
